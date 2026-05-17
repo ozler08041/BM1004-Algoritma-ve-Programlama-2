@@ -1,0 +1,14 @@
+<Solution>
+  <Project Path="Hafta2/Hafta2.csproj" />
+  <Project Path="Soru10/Soru10.csproj" Id="5ede582b-a537-4f47-bda8-08df9e9a1cf3" />
+  <Project Path="Soru11/Soru11.csproj" Id="323c05b0-f8fe-4f9a-b10c-42decd95f930" />
+  <Project Path="Soru12/Soru12.csproj" Id="141c521f-2280-4186-936f-143be7dc353d" />
+  <Project Path="Soru2/Soru2.csproj" />
+  <Project Path="Soru3/Soru3.csproj" />
+  <Project Path="Soru4/Soru4.csproj" />
+  <Project Path="Soru5/Soru5.csproj" />
+  <Project Path="Soru6/Soru6.csproj" />
+  <Project Path="Soru7/Soru7.csproj" Id="ec6d55e4-c630-4dab-960d-9ff63a24d7b0" />
+  <Project Path="Soru8/Soru8.csproj" Id="35ddb837-ae77-4cde-9a63-f321d4169703" />
+  <Project Path="Soru9/Soru9.csproj" Id="3d504a46-16dd-4501-8506-54b63c4ff8c2" />
+</Solution>

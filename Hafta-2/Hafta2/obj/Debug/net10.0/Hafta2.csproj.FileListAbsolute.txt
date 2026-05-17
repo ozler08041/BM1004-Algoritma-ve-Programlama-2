@@ -1,0 +1,14 @@
+C:\Users\CASPER\source\repos\Hafta2\Hafta2\obj\Debug\net10.0\Hafta2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASPER\source\repos\Hafta2\Hafta2\obj\Debug\net10.0\Hafta2.AssemblyInfoInputs.cache
+C:\Users\CASPER\source\repos\Hafta2\Hafta2\obj\Debug\net10.0\Hafta2.AssemblyInfo.cs
+C:\Users\CASPER\source\repos\Hafta2\Hafta2\obj\Debug\net10.0\Hafta2.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\Hafta2\Hafta2\bin\Debug\net10.0\Hafta2.exe
+C:\Users\CASPER\source\repos\Hafta2\Hafta2\bin\Debug\net10.0\Hafta2.deps.json
+C:\Users\CASPER\source\repos\Hafta2\Hafta2\bin\Debug\net10.0\Hafta2.runtimeconfig.json
+C:\Users\CASPER\source\repos\Hafta2\Hafta2\bin\Debug\net10.0\Hafta2.dll
+C:\Users\CASPER\source\repos\Hafta2\Hafta2\bin\Debug\net10.0\Hafta2.pdb
+C:\Users\CASPER\source\repos\Hafta2\Hafta2\obj\Debug\net10.0\Hafta2.dll
+C:\Users\CASPER\source\repos\Hafta2\Hafta2\obj\Debug\net10.0\refint\Hafta2.dll
+C:\Users\CASPER\source\repos\Hafta2\Hafta2\obj\Debug\net10.0\Hafta2.pdb
+C:\Users\CASPER\source\repos\Hafta2\Hafta2\obj\Debug\net10.0\Hafta2.genruntimeconfig.cache
+C:\Users\CASPER\source\repos\Hafta2\Hafta2\obj\Debug\net10.0\ref\Hafta2.dll
