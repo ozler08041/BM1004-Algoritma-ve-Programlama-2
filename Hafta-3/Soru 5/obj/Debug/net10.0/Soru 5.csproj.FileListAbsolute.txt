@@ -1,0 +1,14 @@
+C:\Users\CASPER\source\repos\Hafta3\Soru 5\bin\Debug\net10.0\Soru 5.exe
+C:\Users\CASPER\source\repos\Hafta3\Soru 5\bin\Debug\net10.0\Soru 5.deps.json
+C:\Users\CASPER\source\repos\Hafta3\Soru 5\bin\Debug\net10.0\Soru 5.runtimeconfig.json
+C:\Users\CASPER\source\repos\Hafta3\Soru 5\bin\Debug\net10.0\Soru 5.dll
+C:\Users\CASPER\source\repos\Hafta3\Soru 5\bin\Debug\net10.0\Soru 5.pdb
+C:\Users\CASPER\source\repos\Hafta3\Soru 5\obj\Debug\net10.0\Soru 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASPER\source\repos\Hafta3\Soru 5\obj\Debug\net10.0\Soru 5.AssemblyInfoInputs.cache
+C:\Users\CASPER\source\repos\Hafta3\Soru 5\obj\Debug\net10.0\Soru 5.AssemblyInfo.cs
+C:\Users\CASPER\source\repos\Hafta3\Soru 5\obj\Debug\net10.0\Soru 5.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\Hafta3\Soru 5\obj\Debug\net10.0\Soru 5.dll
+C:\Users\CASPER\source\repos\Hafta3\Soru 5\obj\Debug\net10.0\refint\Soru 5.dll
+C:\Users\CASPER\source\repos\Hafta3\Soru 5\obj\Debug\net10.0\Soru 5.pdb
+C:\Users\CASPER\source\repos\Hafta3\Soru 5\obj\Debug\net10.0\Soru 5.genruntimeconfig.cache
+C:\Users\CASPER\source\repos\Hafta3\Soru 5\obj\Debug\net10.0\ref\Soru 5.dll
